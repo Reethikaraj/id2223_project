@@ -49,4 +49,5 @@ This pipeline deals with the daily extraction and processing of features require
 
 The performance of the Linear Regression model is evaluated using Mean Squared Error (MSE), with a resulting MSE value of 46.9413. This metric provides insights into how well the model is performing in terms of predicting the closing values.
 
-Hugging face URL for the monitor - https://huggingface.co/spaces/Reethika23/sp500
+Hugging face URL for the dashboard - https://huggingface.co/spaces/Reethika23/sp500
+Hugging face Interactive UI - https://huggingface.co/spaces/Reethika23/sp500_UI
